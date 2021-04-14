@@ -1,4 +1,5 @@
-﻿using System.Text.Json.Serialization;
+﻿using System;
+using System.Text.Json.Serialization;
 using TAXII2Sharp.Client.STIX;
 
 namespace TAXII2Sharp.Client.V21
