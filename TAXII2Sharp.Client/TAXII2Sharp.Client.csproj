@@ -10,6 +10,13 @@
     <Description>TAXII2 client implementation with STIX object definitions included.</Description>
     <PackageProjectUrl>https://github.com/Zorus/TAXII2Sharp.Client</PackageProjectUrl>
     <Company>Zorus Inc.</Company>
+    <RepositoryUrl>https://github.com/Zorus/TAXII2Sharp.Client</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <Copyright>Copyright 2021 Zorus Inc. All rights reserved.</Copyright>
+    <NeutralLanguage>en</NeutralLanguage>
+    <PackageReleaseNotes>Initial release of TAXII2Sharp.Client
+
+This release contains a TAXII2 client with implementations for TAXII2 v2.0 and 2.1, with STIX2 Object definitions in order to allow for connection to a TAXII Endpoint to gather relevant data from it.</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
@@ -17,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="..\..\LICENSE">
+    <None Include="..\LICENSE">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
