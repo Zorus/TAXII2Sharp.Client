@@ -1,5 +1,5 @@
 # TAXII2Sharp.Client
-![NuGet](https://img.shields.io/nuget/v/TAXII2Sharp.Client)
+[![NuGet](https://img.shields.io/nuget/v/TAXII2Sharp.Client)](https://www.nuget.org/packages/TAXII2Sharp.Client/)
 
 TAXII2Sharp.Client is a C# .NET Standard implementation of the TAXII2 specifications for retrieving STIX structured data from a TAXII Endpoint.
 
