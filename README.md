@@ -1,9 +1,11 @@
+
 # TAXII2Sharp.Client
 [![NuGet](https://img.shields.io/nuget/v/TAXII2Sharp.Client)](https://www.nuget.org/packages/TAXII2Sharp.Client/)
 
 TAXII2Sharp.Client is a C# .NET Standard implementation of the TAXII2 specifications for retrieving STIX structured data from a TAXII Endpoint.
 
 For more information on the TAXII Specifications, please see the References section below.
+
 For more information on the STIX specifications, please see the References section below.
 
 
@@ -43,8 +45,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## References
 [TAXII 2.0 Specification](https://docs.oasis-open.org/cti/taxii/v2.0/taxii-v2.0.pdf)
+
 [TAXII 2.1 Specification](https://docs.oasis-open.org/cti/taxii/v2.1/taxii-v2.1.pdf)
+
 [STIX Specification](https://www.oasis-open.org/committees/download.php/58538/STIX2.0-Draft1-Core.pdf)
 
 ## License
-[GNU Lesser General Public License v2.1](https://choosealicense.com/licenses/lgpl-3.0/)
+[GNU Lesser General Public License v2.1](https://choosealicense.com/licenses/lgpl-2.1/)
